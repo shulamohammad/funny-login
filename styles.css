@@ -1,0 +1,124 @@
+
+.contents{
+    background-color: white;
+    width: 310px;
+    height: 519px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    position: relative;
+}
+
+body{
+    background-image: linear-gradient(to right, rgb(163, 77, 147), rgb(55, 78, 168));
+
+}
+.input{
+    width: 219px;
+    height: 38px;
+    margin-top: 10px;
+    padding-left: 41px;
+    background-color: rgb(231, 231, 232);
+    border-color: rgb(231, 231, 232);
+    border-top: none;
+    border-left: none;
+}
+.icon1{
+    color: rgb(192, 192, 192);
+    position: absolute;
+    top: 122px;
+    left: 38px;
+}
+
+.icon2{
+    color: rgb(192, 192, 192);
+    position: absolute;
+    top: 173px;
+    left: 38px;
+}
+.radio{
+    padding: 5px;
+    background-color: white;
+    border-color: rgb(197, 75, 137);
+    border-radius: 4px;
+  float: left;
+  margin-left: 23px;
+}
+
+.label{
+    float: left;
+    margin-top: -2px;
+    margin-left: 4px;
+    font-size: 13px;
+    color: rgb(174, 173, 173);
+    font-family: sans-serif;
+}
+.input2{
+    margin-bottom: 22px;
+ 
+    
+}
+.login{
+    background-color: rgb(197, 75, 136);
+    width: 261px;
+    height: 41px;
+    border-color: rgb(197, 75, 136);
+    border-bottom: none;
+    border-right: none;
+    margin-top: 18px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 16px;
+    font-weight: 800;
+}
+h3{
+    padding-top: 60px;
+    font-family: sans-serif;
+}
+.p{
+    font-size: 13px;
+    color: rgb(174, 173, 173);
+    font-family: sans-serif;
+}
+
+.btn{
+
+    display: inline-block;
+    border: solid 1px rgb(242, 243, 243);
+    width: 116px;
+    height: 26px;
+    line-height: 26.2px;
+    margin-right: 5px;
+}
+.footer{
+    font-size: 13px;
+    color: rgb(174, 173, 173);
+    font-family: sans-serif;
+    margin-top: 84px;
+}
+
+.face{
+    margin-right: 4px;
+    color: rgb(70, 93, 144);
+}
+.text1{
+    color: rgb(70, 93, 144);
+}
+.text2{
+   color:  rgb(99, 101, 98);
+}
+.googl{
+    color: rgb(166, 103, 97);
+    margin-right: 6px;
+}
+.link{
+    color: rgb(174, 173, 173);
+    margin-left: 2px;
+}
+        
+img{
+    width: 93%;
+    position: absolute;
+    left: 3%;
+    top: 14%;
+}
